@@ -1,4 +1,4 @@
-# JUDUL
+# TutorMina-Penentuan Jalur Pembelajaran Personalisasi untuk minat siswa
 
 # Team Member(Kelompok 10)
 - M. Ali Imron Almuzaky (MAAZ)
