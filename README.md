@@ -1,6 +1,3 @@
 # EDMCHALLENGE-TEAM10
 
-AAA
-AAA
-AAA
-bbb
+
